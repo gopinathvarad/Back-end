@@ -29,7 +29,7 @@ ON users.id = user_id;
 ```
 
 
-## Run the below to install node modlues
+## Run the below to install node modules
 
 To run tests, run the following command
 
