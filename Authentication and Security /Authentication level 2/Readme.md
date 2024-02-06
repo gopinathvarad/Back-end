@@ -1,4 +1,4 @@
-
+# In the Level 2 Authentication we are using hashing to encrypt the password
 ## Run this code in Postgres Query table
 
 ```SQL
