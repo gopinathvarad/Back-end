@@ -1,4 +1,4 @@
-# In the Level 2 Authentication we are using hashing to encrypt the password
+# In the Level 2 Authentication we are using hashing to encrypt the password. The hashing technique used is blowfish cipher
 ## Run this code in Postgres Query table
 
 ```SQL
